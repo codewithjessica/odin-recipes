@@ -1,0 +1,20 @@
+body {
+    background-color: #FFFFC5;
+    color: purple;
+    display: block;
+}
+h1 {
+    text-align: center;
+    background-color: #FFFFED;
+    padding: 30px;
+    text-align: center;
+    align-items: center; 
+}
+
+ul {
+    outline: 2px solid red;
+    margin: 100px;
+}
+
+
+
