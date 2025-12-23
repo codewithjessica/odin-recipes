@@ -8,7 +8,7 @@ body {
     background-color: #1f2937;
     color: #f9faf8;
     font-size: 24px;
-    justify-content: space-between;  /* push logo left and nav right */
+    justify-content: space-between;  
     align-items: center;  
     padding: 10px 150px;
 }
@@ -149,4 +149,14 @@ body {
 }
 .signup-2:hover {
     background-color: #2563eb;  
+}
+
+.footer {
+    display: flex;
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 15px;
+    justify-content: center;  /* push logo left and nav right */
+    align-items: center;  
+    padding: 10px; 
 }
