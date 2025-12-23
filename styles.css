@@ -1,20 +1,22 @@
 body {
-    background-color: #FFFFC5;
-    color: purple;
-    display: block;
-}
-h1 {
-    text-align: center;
-    background-color: #FFFFED;
-    padding: 30px;
-    text-align: center;
-    align-items: center; 
+    margin: 0;
 }
 
-ul {
-    outline: 2px solid red;
-    margin: 100px;
+.header {
+    display: flex;
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    justify-content: space-between;  /* push logo left and nav right */
+    align-items: center;  
+    padding: 16px;
 }
-
+.nav a {
+    margin-left: 1rem;       /* space between links */
+    text-decoration: none;    /* remove underline */
+    color: #e5e7eb;
+    font-size: 18px;
+}
 
 
