@@ -10,7 +10,7 @@ body {
     font-size: 24px;
     justify-content: space-between;  /* push logo left and nav right */
     align-items: center;  
-    padding: 16px;
+    padding: 10px 150px;
 }
 .nav a {
     margin-left: 1rem;       /* space between links */
